@@ -5,7 +5,7 @@
 "sources": [
 {
 "url": "https://f70.megaup.net/ac76ada6edea04aabbd5403f5ee922f6/test.mp4?download_token=16c1657383981811c86b9c2df1fe83b6cf25f2a222cd6c1e226514a1c97ccfa0",
-"contentType": "video/mp4",
+"contentType": "application/x-mpegURL",
 "quality": 480
 }
 ],
